@@ -1,0 +1,22 @@
+{
+  "first-name": "Alfred",
+  "last-name": "Sepulveda",
+  "address": "5500 University Pkwy, San Bernardino, CA 92407",
+  "phone": "(123)456-7890",
+  "email": "alfred.sepulveda@mail.com",
+  "introduction": "I am part of an older generation that is trying something new",
+  "experience":[
+    {
+      "title":"WEB DEVELOPER",
+      "employer":"CSUSB",
+      "period":"March 2015 - Present",
+      "description":"I have done some web development using html with css style and I have done wordpress."
+    },
+    {
+      "title":"APPLICATION DEVELOPER",
+      "employer":"CSUSB",
+      "period":"March 2017 - Present",
+      "description":"I have created API's and published them to the cloud I would like to get more experience on this."
+    }
+  ]
+}
