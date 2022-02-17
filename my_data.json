@@ -20,3 +20,24 @@
     }
   ]
 }
+  "education":[
+    {
+      "title":"AWS Solutions Architect",
+      "certificate":"AWS Certified Solutions Architect",
+      "period":"January 2022",
+      "description":"My official path to cloud Architect"
+    },
+    {
+      "title":"Cisco Certified Network Associate",
+      "certificate":"CCNA",
+      "period":"June 2019",
+      "description":"My knowledge of the internet and things"
+    },
+    {
+      "title":"MySQL Developer Certificate",
+      "certificate":"MySQL Developer",
+      "period":"June 2018",
+      "description":"My first certificate in my Engineer Journey"
+    }
+  ]
+}
