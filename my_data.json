@@ -5,24 +5,24 @@
   "phone": "(123)456-7890",
   "email": "alfred.sepulveda@mail.com",
   "introduction": "I am part of an older generation that is trying something new",
-  "education":[
-    {
-      "title":"AWS Solutions Architect",
-      "period":"January 2022",
-      "description":"My official path to cloud Architect"
-    },
-    {
-      "title":"Cisco Certified Network Associate",
-      "period":"June 2019",
-      "description":"My knowledge of the internet and things"
-    },
-    {
-      "title":"MySQL Developer Certificate",
-      "period":"June 2018",
-      "description":"My first certificate in my Engineer Journey"
-    }
-  ]
-}
+//  "education":[
+//    {
+//      "title":"AWS Solutions Architect",
+//      "period":"January 2022",
+//      "description":"My official path to cloud Architect"
+//    },
+//    {
+//      "title":"Cisco Certified Network Associate",
+//     "period":"June 2019",
+//      "description":"My knowledge of the internet and things"
+//    },
+//    {
+//      "title":"MySQL Developer Certificate",
+//      "period":"June 2018",
+//      "description":"My first certificate in my Engineer Journey"
+//    }
+//  ]
+//}
   "experience":[
     {
       "title":"WEB DEVELOPER",
