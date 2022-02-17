@@ -13,6 +13,9 @@ $json_data = json_decode($json_file,true);
     <?php echo $json_data['first-name']; ?>
     <span class="text-primary"><?php echo $json_data['last-name']; ?></span>
 </h1>
+ <?php echo $json_data['address']; ?> · <?php echo $json_data['phone']; ?> · <a href="<?php echo $json_data['email']; ?>"><?php echo $json_data['email']; ?></a>
+</div>
+<p><?php echo $json_data['introduction']; ?></p>
 <?php foreach($json_data['education'] AS $education) { ?>
   <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
     <div class="flex-grow-1">
