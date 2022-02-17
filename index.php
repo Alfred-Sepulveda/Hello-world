@@ -42,13 +42,6 @@ $json_data = json_decode($json_file,true);
         </div>
       </div>
       <hr>
-      <div id="education" class="content-item">
-        <div class="vertical-center">
-          <h2>Education</h2>
-          <p>...</p>
-        </div>
-      </div>
-      <hr>
       <div id="experience" class="content-item">
         <div class="vertical-center">
           <h2>Experience</h2>
