@@ -1,8 +1,9 @@
-<?
-$name = "Alfred Sepulveda";
-echo "Hello My name is ".$name;
-$skills = "Cloud Compute";
-$interest = "Technology";
-echo " These are my skills: ".$skills;
-echo " and these are my interest: ".$interest;
+<?php
+
+// Read the JSON file
+$json_file = file_get_contents('my_data.json');
+
+// Decode the JSON file
+$json_data = json_decode($json_file,true);
+
 ?>
